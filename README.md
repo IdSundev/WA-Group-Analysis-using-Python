@@ -6,27 +6,27 @@ https://medium.com/towards-artificial-intelligence/whatsapp-group-chat-analy
 ## Basic Command:
 
 **Running Anaconda**
-```python
+```bash
 source ~<computer-name>/anaconda3/bin/activate
 ```
 **Open Anaconda**
-```python
+```bash
 anaconda-navigator
 ```
 **Deactivate Anaconda**
-```python
+```bash
 conda deactivate
 ```
 **Create Virtual Environtment**
-```python
+```bash
 virtualenv <nama_folder>
 ```
 **Running Virtual Environtment**
-```python
+```bash
 source <nama_folder>/bin/activate
 ```
 **Deactivate Virtual Environtment**
-```python
+```bash
 deactivate
 ```
 ## Notes
