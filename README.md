@@ -1,6 +1,6 @@
 # Whats App Group Analysis Using Python
 
-Repositori ini berisi source code latihan dari ebook Python for Data Analysis, 2nd Edition by Wes McKinney.
+Repositori ini berisi source code latihan dari blog berikut:
 https://medium.com/towards-artificial-intelligence/whatsapp-group-chat-analy
 
 ## Basic Command:
